@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/yvesasselin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://recettes-asselin.com
+  * I am yvesasselin (https://keybase.io/yvesasselin) on keybase.
+  * I have a public key ASB4sHx1I2DMYqWC1g2AzQ1xoI8Z-8ggwZ2CkrtGDbKpewo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012078b07c752360cc62a582d60d80cd0d71a08f19fbc820c19d8292bb460db2a97b0a",
+            "host": "keybase.io",
+            "kid": "012078b07c752360cc62a582d60d80cd0d71a08f19fbc820c19d8292bb460db2a97b0a",
+            "uid": "c13fb76086ee1fcca6807930196f8819",
+            "username": "yvesasselin"
+        },
+        "service": {
+            "hostname": "recettes-asselin.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.22"
+    },
+    "ctime": 1494893408,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1494893264,
+        "hash": "45074074b936d37c9b9cfaf5bca68a7d88aa90c147a0b4a07a3b0560a0a00cdc93788208073d138105295f6bf981c90f57f252b6f8571a09e088c9d9d5fa11a6",
+        "seqno": 1085908
+    },
+    "prev": "6e6a24c0961432c2d743ccf083476c3eb5abeb2924543cc6a24e650347f9d7e7",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeLB8dSNgzGKlgtYNgM0NcaCPGfvIIMGdgpK7Rg2yqXsKp3BheWxvYWTFAv97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzhiMDdjNzUyMzYwY2M2MmE1ODJkNjBkODBjZDBkNzFhMDhmMTlmYmM4MjBjMTlkODI5MmJiNDYwZGIyYTk3YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzhiMDdjNzUyMzYwY2M2MmE1ODJkNjBkODBjZDBkNzFhMDhmMTlmYmM4MjBjMTlkODI5MmJiNDYwZGIyYTk3YjBhIiwidWlkIjoiYzEzZmI3NjA4NmVlMWZjY2E2ODA3OTMwMTk2Zjg4MTkiLCJ1c2VybmFtZSI6Inl2ZXNhc3NlbGluIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJyZWNldHRlcy1hc3NlbGluLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjIifSwiY3RpbWUiOjE0OTQ4OTM0MDgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5NDg5MzI2NCwiaGFzaCI6IjQ1MDc0MDc0YjkzNmQzN2M5YjljZmFmNWJjYTY4YTdkODhhYTkwYzE0N2EwYjRhMDdhM2IwNTYwYTBhMDBjZGM5Mzc4ODIwODA3M2QxMzgxMDUyOTVmNmJmOTgxYzkwZjU3ZjI1MmI2Zjg1NzFhMDllMDg4YzlkOWQ1ZmExMWE2Iiwic2Vxbm8iOjEwODU5MDh9LCJwcmV2IjoiNmU2YTI0YzA5NjE0MzJjMmQ3NDNjY2YwODM0NzZjM2ViNWFiZWIyOTI0NTQzY2M2YTI0ZTY1MDM0N2Y5ZDdlNyIsInNlcW5vIjo1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQJ6xnVMCORp/3/F1MhaKsGgH29oM+YzU1u/K08EkuD9BY6pVNYhj2mNx5D6SuU39J/Gv97+my/ZOurGyDaU+BgSoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAOnGjV6JDlVtDO4jmWgewifAY4kPVgCgEXSsK/aWTaPqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yvesasselin
+
+==================================================================
