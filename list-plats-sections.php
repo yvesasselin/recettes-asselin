@@ -1,0 +1,10 @@
+<li><a href="http://recettes-asselin.com/sandwiches.php"><strong>sandwiches</strong></a></li>
+<li><a href="http://recettes-asselin.com/plats.php#repas-semaine-link">repas de semaines</a></li>
+<li><a href="http://recettes-asselin.com/plats.php#pates-link">pâtes</a></li>
+<li><a href="http://recettes-asselin.com/plats.php#fondues-link">fondues</a></li>
+<li><a href="http://recettes-asselin.com/plats.php#fruits-de-mer-link">fruits de mer</a></li>
+<li><a href="http://recettes-asselin.com/plats.php#legumes-link">légumes</a></li>
+<li><a href="http://recettes-asselin.com/plats.php#africain-link">africain</a></li>
+<li><a href="http://recettes-asselin.com/plats.php#asiatique-link">asiatique</a></li>
+<li><a href="http://recettes-asselin.com/plats.php#indien-link">indien</a></li>
+<li><a href="http://recettes-asselin.com/plats.php#libanais-link">libanais</a></li>

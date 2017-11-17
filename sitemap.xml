@@ -1,1065 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
-<!-- www.check-domains.com sitemap generator -->
-
-<url>
-   <loc>http://www.recettes-asselin.com/</loc>
-   <lastmod>2017-05-16T18:14:37+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>1.0000</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/index.html</loc>
-   <lastmod>2017-05-16T18:14:37+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/plats.html</loc>
-   <lastmod>2017-05-16T18:13:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/sandwiches.html</loc>
-   <lastmod>2017-05-16T18:14:37+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/desserts.html</loc>
-   <lastmod>2017-05-16T18:13:48+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/petit_dejeuner.html</loc>
-   <lastmod>2017-05-16T18:14:36+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/bouchees.html</loc>
-   <lastmod>2017-05-16T18:13:48+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/soupes.html</loc>
-   <lastmod>2017-05-16T18:14:37+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/salades.html</loc>
-   <lastmod>2017-05-16T18:13:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/drinks.html</loc>
-   <lastmod>2017-05-16T18:13:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/trucs.html</loc>
-   <lastmod>2017-05-16T18:14:36+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/sandwiches/lobster-roll.html</loc>
-   <lastmod>2017-05-16T18:14:18+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Spaghetti_niaiseux.html</loc>
-   <lastmod>2017-05-16T18:13:57+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/recette-de-sauce-a-l_arachide.html</loc>
-   <lastmod>2017-05-16T18:14:04+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/couscous-de-mamou.html</loc>
-   <lastmod>2017-05-16T18:13:55+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Chicken_Cashew_Stir_Fry.html</loc>
-   <lastmod>2017-05-16T18:14:07+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/chop_suey.html</loc>
-   <lastmod>2017-05-16T18:13:56+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/general_tso.html</loc>
-   <lastmod>2017-05-16T18:14:05+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/lakehouse.html</loc>
-   <lastmod>2017-05-16T18:13:58+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/sauces-aux-arachides.html</loc>
-   <lastmod>2017-05-16T18:13:57+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/ShanghaiNoodles.html</loc>
-   <lastmod>2017-05-16T18:13:56+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/fondue_chinoise.html</loc>
-   <lastmod>2017-05-16T18:14:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Sauces_a_Fondue.html</loc>
-   <lastmod>2017-05-16T18:14:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/fondue_au_fromage.html</loc>
-   <lastmod>2017-05-16T18:14:09+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/casserole_fruits_mer.html</loc>
-   <lastmod>2017-05-16T18:14:08+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/john_turners_fish.html</loc>
-   <lastmod>2017-05-16T18:14:03+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/PatesAuxPalourdes.html</loc>
-   <lastmod>2017-05-16T18:14:10+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Petoncles.html</loc>
-   <lastmod>2017-05-16T18:14:02+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/lamb_korma.html</loc>
-   <lastmod>2017-05-16T18:14:04+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/butter_chicken.html</loc>
-   <lastmod>2017-05-16T18:14:02+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/chou_fleur_gratine.html</loc>
-   <lastmod>2017-05-16T18:13:59+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/courgettes_pannees.html</loc>
-   <lastmod>2017-05-16T18:14:10+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/KarlsMossalam.html</loc>
-   <lastmod>2017-05-16T18:13:59+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Leanne_smashed_potatoes.html</loc>
-   <lastmod>2017-05-16T18:14:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/poireaux.html</loc>
-   <lastmod>2017-05-16T18:14:02+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/sophies_carrots.html</loc>
-   <lastmod>2017-05-16T18:14:05+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Tomate_fraiches.html</loc>
-   <lastmod>2017-05-16T18:14:00+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/lebanese_rice.html</loc>
-   <lastmod>2017-05-16T18:14:06+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/lasagne_epinards.html</loc>
-   <lastmod>2017-05-16T18:14:13+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/lasagne_au_jambon.html</loc>
-   <lastmod>2017-05-16T18:14:10+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/lasagne_micheline.html</loc>
-   <lastmod>2017-05-16T18:14:00+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/pates_aux_saucisses_de_sophie.html</loc>
-   <lastmod>2017-05-16T18:14:12+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/spaghetti_alla_carbonara.html</loc>
-   <lastmod>2017-05-16T18:14:01+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Spaghetti_rainville.html</loc>
-   <lastmod>2017-05-16T18:14:11+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Spaghetti_au_gratin.html</loc>
-   <lastmod>2017-05-16T18:14:07+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Spaghetti_aux_boulettes.html</loc>
-   <lastmod>2017-05-16T18:14:14+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Spaghetti_au_pepperoni.html</loc>
-   <lastmod>2017-05-16T18:14:05+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/noodle_surprise.html</loc>
-   <lastmod>2017-05-16T18:14:07+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Boeuf-auX-carottes.html</loc>
-   <lastmod>2017-05-16T18:14:14+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Bouilli-de-orise.html</loc>
-   <lastmod>2017-05-16T18:14:11+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/cabbage_rolls.html</loc>
-   <lastmod>2017-05-16T18:13:55+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Chili_Con_Carne_Jovette.html</loc>
-   <lastmod>2017-05-16T18:13:58+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/ChiliMac.html</loc>
-   <lastmod>2017-05-16T18:14:01+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Crevettes_sophie.html</loc>
-   <lastmod>2017-05-16T18:14:08+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/deviled_fried_chicken.html</loc>
-   <lastmod>2017-05-16T18:14:09+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/dinde_lory.html</loc>
-   <lastmod>2017-05-16T18:14:02+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/fauxveauparmesan.html</loc>
-   <lastmod>2017-05-16T18:13:58+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/feves-au-lard.html</loc>
-   <lastmod>2017-05-16T18:14:07+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/filet_de_porc_sophie.html</loc>
-   <lastmod>2017-05-16T18:14:09+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/lamb_tourtiere.html</loc>
-   <lastmod>2017-05-16T18:14:06+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/london_broil.html</loc>
-   <lastmod>2017-05-16T18:14:11+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/OssoBuco.html</loc>
-   <lastmod>2017-05-16T18:14:04+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/pain-de-viande-sophie.html</loc>
-   <lastmod>2017-05-16T18:14:12+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/pate_chinois.html</loc>
-   <lastmod>2017-05-16T18:13:58+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/pate_favori_des_enfants.html</loc>
-   <lastmod>2017-05-16T18:13:59+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/peanut_But_Steak_Surpr.html</loc>
-   <lastmod>2017-05-16T18:14:00+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/porc-epic.html</loc>
-   <lastmod>2017-05-16T18:14:14+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Porc-chops-de-sophie.html</loc>
-   <lastmod>2017-05-16T18:14:04+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/pork_tenderloin_mom.html</loc>
-   <lastmod>2017-05-16T18:14:03+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/pork_tenderloin.html</loc>
-   <lastmod>2017-05-16T18:14:00+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Poulet-au-40-gousses-dail.html</loc>
-   <lastmod>2017-05-16T18:14:03+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/poulet_provencale.html</loc>
-   <lastmod>2017-05-16T18:13:55+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/poulet_sophie.html</loc>
-   <lastmod>2017-05-16T18:14:06+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/poulet_asperges.html</loc>
-   <lastmod>2017-05-16T18:14:12+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/serge-pulled-pork.html</loc>
-   <lastmod>2017-05-16T18:14:01+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/ragout_de_boulettes_Sophie.html</loc>
-   <lastmod>2017-05-16T18:14:12+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/roast-beef-sophie.html</loc>
-   <lastmod>2017-05-16T18:13:56+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Roast_potato_ragout.html</loc>
-   <lastmod>2017-05-16T18:14:10+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/savoury_pepper_steak.html</loc>
-   <lastmod>2017-05-16T18:13:57+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/plats/Roti-de-palette.html</loc>
-   <lastmod>2017-05-16T18:14:08+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/sandwiches/BigMac.html</loc>
-   <lastmod>2017-05-16T18:14:19+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/sandwiches/Club-Sandwich-Jovette.html</loc>
-   <lastmod>2017-05-16T18:14:19+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/sandwiches/Club-sandwich-St-Hubert.html</loc>
-   <lastmod>2017-05-16T18:14:17+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/sandwiches/croque-monsieur.html</loc>
-   <lastmod>2017-05-16T18:14:17+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/sandwiches/Hot-Chicken-Jovette.html</loc>
-   <lastmod>2017-05-16T18:14:17+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/sandwiches/jersey-mikes-subs.html</loc>
-   <lastmod>2017-05-16T18:14:19+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/sandwiches/sous-marin-MIKES-restaurant.html</loc>
-   <lastmod>2017-05-16T18:14:18+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/sandwiches/sous-marin-MIKES-Hot-Luke-restaurant.html</loc>
-   <lastmod>2017-05-16T18:14:18+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/sandwiches/Torpedo-Roll.html</loc>
-   <lastmod>2017-05-16T18:14:19+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/sandwiches/chicken-sandwich-recipe.html</loc>
-   <lastmod>2017-05-16T18:14:18+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/biscuit_far_av.html</loc>
-   <lastmod>2017-05-16T18:14:23+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/Biscuits_noix_coco.html</loc>
-   <lastmod>2017-05-16T18:14:22+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/biscuits_beurre_arac.html</loc>
-   <lastmod>2017-05-16T18:14:22+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/biscuits_choc_chip.html</loc>
-   <lastmod>2017-05-16T18:14:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/biscuits_dad.html</loc>
-   <lastmod>2017-05-16T18:14:29+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/bonbons_clair.html</loc>
-   <lastmod>2017-05-16T18:14:27+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/tire_st_catherine.html</loc>
-   <lastmod>2017-05-16T18:14:28+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/ananas_farcis.html</loc>
-   <lastmod>2017-05-16T18:14:32+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/carres_rice_crispies.html</loc>
-   <lastmod>2017-05-16T18:14:31+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/chocolate_cornflake_cookies.html</loc>
-   <lastmod>2017-05-16T18:14:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/fudge.html</loc>
-   <lastmod>2017-05-16T18:14:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/pattys-fudge.html</loc>
-   <lastmod>2017-05-16T18:14:26+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/sucre_creme.html</loc>
-   <lastmod>2017-05-16T18:14:28+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/anything_goes_ginger_bars.html</loc>
-   <lastmod>2017-05-16T18:14:26+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/Aunt_Lynns_Apple_Crisp.html</loc>
-   <lastmod>2017-05-16T18:14:27+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/brownies.html</loc>
-   <lastmod>2017-05-16T18:14:29+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/CakeItalien.html</loc>
-   <lastmod>2017-05-16T18:14:26+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/gateau_bananes.html</loc>
-   <lastmod>2017-05-16T18:14:33+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/gateau-aux-bleuets-avec-sauce-au-beurre.html</loc>
-   <lastmod>2017-05-16T18:14:31+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/gateau_aux_carottes.html</loc>
-   <lastmod>2017-05-16T18:14:25+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/dream_cake.html</loc>
-   <lastmod>2017-05-16T18:14:23+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/gateau_Elizabeth.html</loc>
-   <lastmod>2017-05-16T18:14:23+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/gateau_fruits_fetes.html</loc>
-   <lastmod>2017-05-16T18:14:32+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/gateau_jujubes.html</loc>
-   <lastmod>2017-05-16T18:14:33+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/gateau_orange.html</loc>
-   <lastmod>2017-05-16T18:14:28+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/gateau_pommes.html</loc>
-   <lastmod>2017-05-16T18:14:21+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/gateau_rhum.html</loc>
-   <lastmod>2017-05-16T18:14:24+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/hello_dolly.html</loc>
-   <lastmod>2017-05-16T18:14:21+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/lunar-rhubarb-cake.html</loc>
-   <lastmod>2017-05-16T18:14:31+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/Plum_Puding.html</loc>
-   <lastmod>2017-05-16T18:14:32+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/pudding_aux_fruits.html</loc>
-   <lastmod>2017-05-16T18:14:23+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/pudding_chomeur.html</loc>
-   <lastmod>2017-05-16T18:14:29+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/short_cake_fraises.html</loc>
-   <lastmod>2017-05-16T18:14:25+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/glacage_chocolat_blanche.html</loc>
-   <lastmod>2017-05-16T18:14:24+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/glacage_choco_anges.html</loc>
-   <lastmod>2017-05-16T18:14:25+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/glacage_choco_sans.html</loc>
-   <lastmod>2017-05-16T18:14:24+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/glacage_chocolat.html</loc>
-   <lastmod>2017-05-16T18:14:25+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/glacage_cremeux.html</loc>
-   <lastmod>2017-05-16T18:14:26+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/glacage_erable.html</loc>
-   <lastmod>2017-05-16T18:14:27+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/glacage_fraises.html</loc>
-   <lastmod>2017-05-16T18:14:28+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/muffins_jovette.html</loc>
-   <lastmod>2017-05-16T18:14:22+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/Serge_and_Leannes_pecan_pie.html</loc>
-   <lastmod>2017-05-16T18:14:33+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/tarte_aux_pommes_mom.html</loc>
-   <lastmod>2017-05-16T18:14:31+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/desserts/Tartelette_au_sucre.html</loc>
-   <lastmod>2017-05-16T18:14:29+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/best-ever-pancakes-recipe.html</loc>
-   <lastmod>2017-05-16T18:13:50+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/company_french_toast.html</loc>
-   <lastmod>2017-05-16T18:13:51+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/crepes_au_sarrasin_de_grand-papa_richard.html</loc>
-   <lastmod>2017-05-16T18:13:51+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/crepes_de_jovette.html</loc>
-   <lastmod>2017-05-16T18:13:51+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/Davids-blueberry-pancakes.html</loc>
-   <lastmod>2017-05-16T18:13:51+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/Yves_Eggs_Benedict.html</loc>
-   <lastmod>2017-05-16T18:13:52+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/ham-cheese_casserole.html</loc>
-   <lastmod>2017-05-16T18:13:50+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/Pancakes.html</loc>
-   <lastmod>2017-05-16T18:13:50+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/bouchees/almondbrie.html</loc>
-   <lastmod>2017-05-16T18:14:35+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/bouchees/avocado.html</loc>
-   <lastmod>2017-05-16T18:14:36+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/bouchees/champignons.html</loc>
-   <lastmod>2017-05-16T18:14:34+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/bouchees/liptons_party_puffs.html</loc>
-   <lastmod>2017-05-16T18:14:36+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/bouchees/mousse-de-foie-de-canard.html</loc>
-   <lastmod>2017-05-16T18:14:34+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/bouchees/oeufsfarcis.html</loc>
-   <lastmod>2017-05-16T18:14:35+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/bouchees/petits-cochons.html</loc>
-   <lastmod>2017-05-16T18:14:35+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/bouchees/saucisses_cocktail.html</loc>
-   <lastmod>2017-05-16T18:14:33+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/bouchees/seven_layer_dip.html</loc>
-   <lastmod>2017-05-16T18:14:35+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/bouchees/tartine_poischiches.html</loc>
-   <lastmod>2017-05-16T18:14:34+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/bouchees/trempette_lynn.html</loc>
-   <lastmod>2017-05-16T18:14:34+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/soupes/potage-a-l_arachide.html</loc>
-   <lastmod>2017-05-16T18:14:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/soupes/Onion_soup.html</loc>
-   <lastmod>2017-05-16T18:14:16+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/soupes/shawarba.html</loc>
-   <lastmod>2017-05-16T18:14:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/soupes/CrabBisque.html</loc>
-   <lastmod>2017-05-16T18:14:16+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/soupes/MulligatawanySoup.html</loc>
-   <lastmod>2017-05-16T18:14:17+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/soupes/MexicanChili.html</loc>
-   <lastmod>2017-05-16T18:14:16+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/soupes/Lentilles_Yves.html</loc>
-   <lastmod>2017-05-16T18:14:16+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/soupes/soupe_italienne_aux_petittes_boulettes_de_viande.html</loc>
-   <lastmod>2017-05-16T18:14:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/salades/salade-de-brocoli-Annies.html</loc>
-   <lastmod>2017-05-16T18:13:54+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/salades/fireandice.html</loc>
-   <lastmod>2017-05-16T18:13:53+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/salades/salade_cesar_de_sophie.html</loc>
-   <lastmod>2017-05-16T18:13:52+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/salades/saladecochonne.html</loc>
-   <lastmod>2017-05-16T18:13:53+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/salades/salade_de_patate_bacon.html</loc>
-   <lastmod>2017-05-16T18:13:53+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/salades/Spinach_arugula_cranberry_walnut.html</loc>
-   <lastmod>2017-05-16T18:13:52+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/salades/Tomate_fraiches.html</loc>
-   <lastmod>2017-05-16T18:13:53+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/drinks/gin_gimlet.html</loc>
-   <lastmod>2017-05-16T18:14:20+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/drinks/eggnog.html</loc>
-   <lastmod>2017-05-16T18:14:21+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/drinks/Mojito.html</loc>
-   <lastmod>2017-05-16T18:14:20+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/drinks/old_fashioned.html</loc>
-   <lastmod>2017-05-16T18:14:20+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/drinks/rhubarb-punch.html</loc>
-   <lastmod>2017-05-16T18:14:20+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/trucs/mayonnaise.html</loc>
-   <lastmod>2017-05-16T18:13:54+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/trucs/riz.html</loc>
-   <lastmod>2017-05-16T18:13:55+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://www.recettes-asselin.com/recettes/trucs/kill-a-lobster.html</loc>
-   <lastmod>2017-05-16T18:13:54+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url><loc>http://www.recettes-asselin.com/</loc><changefreq>monthly</changefreq><priority>1.00</priority></url>
+<url><loc>http://www.recettes-asselin.com/index.php</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.recettes-asselin.com/plats.php</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.recettes-asselin.com/sandwiches.php</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.recettes-asselin.com/desserts.php</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.recettes-asselin.com/petits-dejeuners.php</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.recettes-asselin.com/bouchees.php</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.recettes-asselin.com/soupes.php</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.recettes-asselin.com/salades.php</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.recettes-asselin.com/drinks.php</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.recettes-asselin.com/trucs.php</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/sandwiches/lobster-roll.php</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Spaghetti_niaiseux.php</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/recette-de-sauce-a-l_arachide.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/couscous-de-mamou.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Chicken_Cashew_Stir_Fry.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/chop_suey.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/general_tso.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/lakehouse.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/sauces-aux-arachides.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/ShanghaiNoodles.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/fondue_chinoise.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Sauces_a_Fondue.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/fondue_au_fromage.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/casserole_fruits_mer.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/john_turners_fish.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/PatesAuxPalourdes.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Petoncles.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/lamb_korma.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/butter_chicken.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/chou_fleur_gratine.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/courgettes_pannees.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/KarlsMossalam.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Leanne_smashed_potatoes.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/poireaux.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/sophies_carrots.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Tomate_fraiches.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/lebanese_rice.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/lasagne_epinards.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/lasagne_au_jambon.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/lasagne_micheline.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/pates_aux_saucisses_de_sophie.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/spaghetti_alla_carbonara.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Spaghetti_rainville.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Spaghetti_au_gratin.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Spaghetti_aux_boulettes.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Spaghetti_au_pepperoni.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/noodle_surprise.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Boeuf-auX-carottes.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Bouilli-de-orise.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/cabbage_rolls.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Chili_Con_Carne_Jovette.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/ChiliMac.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Crevettes_sophie.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/deviled_fried_chicken.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/dinde_lory.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/fauxveauparmesan.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/feves-au-lard.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/filet_de_porc_sophie.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/lamb_tourtiere.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/london_broil.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/OssoBuco.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/pain-de-viande-sophie.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/pate_chinois.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/pate_favori_des_enfants.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/peanut_But_Steak_Surpr.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/porc-epic.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Porc-chops-de-sophie.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/pork_tenderloin_mom.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/pork_tenderloin.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Poulet-au-40-gousses-dail.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/poulet_provencale.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/poulet_sophie.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/poulet_asperges.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/serge-pulled-pork.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/ragout_de_boulettes_Sophie.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/roast-beef-sophie.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Roast_potato_ragout.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/savoury_pepper_steak.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/plats/Roti-de-palette.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/sandwiches/BigMac.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/sandwiches/Club-Sandwich-Jovette.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/sandwiches/Club-sandwich-St-Hubert.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/sandwiches/croque-monsieur.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/sandwiches/Hot-Chicken-Jovette.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/sandwiches/jersey-mikes-subs.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/sandwiches/sous-marin-MIKES-restaurant.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/sandwiches/sous-marin-MIKES-Hot-Luke-restaurant.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/sandwiches/Torpedo-Roll.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/sandwiches/chicken-sandwich-recipe.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/biscuit_far_av.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/Biscuits_noix_coco.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/biscuits_beurre_arac.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/biscuits_choc_chip.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/biscuits_dad.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/bonbons_clair.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/tire_st_catherine.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/ananas_farcis.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/carres_rice_crispies.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/chocolate_cornflake_cookies.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/fudge.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/pattys-fudge.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/sucre_creme.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/anything_goes_ginger_bars.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/Aunt_Lynns_Apple_Crisp.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/brownies.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/CakeItalien.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/gateau_bananes.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/gateau-aux-bleuets-avec-sauce-au-beurre.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/gateau_aux_carottes.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/dream_cake.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/gateau_Elizabeth.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/gateau_fruits_fetes.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/gateau_jujubes.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/gateau_orange.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/gateau_pommes.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/gateau_rhum.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/hello_dolly.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/lunar-rhubarb-cake.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/Plum_Puding.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/pudding_aux_fruits.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/pudding_chomeur.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/short_cake_fraises.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/glacage_chocolat_blanche.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/glacage_choco_anges.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/glacage_choco_sans.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/glacage_chocolat.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/glacage_cremeux.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/glacage_erable.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/glacage_fraises.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/muffins_jovette.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/Serge_and_Leannes_pecan_pie.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/tarte_aux_pommes_mom.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/desserts/Tartelette_au_sucre.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/best-ever-pancakes-recipe.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/company_french_toast.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/crepes_au_sarrasin_de_grand-papa_richard.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/crepes_de_jovette.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/Davids-blueberry-pancakes.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/Yves_Eggs_Benedict.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/ham-cheese_casserole.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/petit_dejeuner/Pancakes.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/bouchees/almondbrie.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/bouchees/avocado.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/bouchees/champignons.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/bouchees/liptons_party_puffs.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/bouchees/mousse-de-foie-de-canard.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/bouchees/oeufsfarcis.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/bouchees/petits-cochons.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/bouchees/saucisses_cocktail.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/bouchees/seven_layer_dip.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/bouchees/tartine_poischiches.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/bouchees/trempette_lynn.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/soupes/potage-a-l_arachide.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/soupes/Onion_soup.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/soupes/shawarba.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/soupes/CrabBisque.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/soupes/MulligatawanySoup.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/soupes/MexicanChili.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/soupes/Lentilles_Yves.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/soupes/soupe_italienne_aux_petittes_boulettes_de_viande.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/salades/salade-de-brocoli-Annies.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/salades/fireandice.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/salades/salade_cesar_de_sophie.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/salades/saladecochonne.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/salades/salade_de_patate_bacon.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/salades/Spinach_arugula_cranberry_walnut.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/salades/Tomate_fraiches.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/drinks/gin_gimlet.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/drinks/eggnog.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/drinks/Mojito.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/drinks/old_fashioned.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/drinks/rhubarb-punch.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/trucs/mayonnaise.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/trucs/riz.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.recettes-asselin.com/recettes/trucs/kill-a-lobster.php</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+<!-- Generated by www.web-site-map.com -->
 </urlset>
+ 

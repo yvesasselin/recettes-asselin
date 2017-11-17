@@ -1,0 +1,12 @@
+<li><a href="http://www.recettes-asselin.com/recettes/bouchees/almondbrie.php">Almond Brie</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/bouchees/avocado.php">Avocado Crab Cocktail</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/bouchees/champignons.php">Champignons farcis</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/bouchees/liptons_party_puffs.php">Lipton’s Party Puffs</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/bouchees/mousse-de-foie-de-canard.php">Mousse de foie de canard</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/bouchees/oeufsfarcis.php">Œufs farcis</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/bouchees/petits-cochons.php">Petits Cochons</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/bouchees/saucisses_cocktail.php">Saucisses cocktail</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/bouchees/sausage-cheese-balls.php">Sausage Cheese Balls</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/bouchees/seven_layer_dip.php">7 layer dip</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/bouchees/tartine_poischiches.php">Tartine aux pois chiches</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/bouchees/trempette_lynn.php">Trempette de Lynn</a></li>  

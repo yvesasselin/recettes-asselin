@@ -1,0 +1,2 @@
+<li><a href="http://recettes-asselin.com/recettes/desserts/bonbons_clair.php">Bonbons clairs</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/tire_st_catherine.php">Tire Sainte-Catherine</a></li>

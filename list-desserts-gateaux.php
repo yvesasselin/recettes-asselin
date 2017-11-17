@@ -1,0 +1,20 @@
+<li><a href="http://recettes-asselin.com/recettes/desserts/anything_goes_ginger_bars.php">Anything Goes Cookie Dough Bars</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/Aunt_Lynns_Apple_Crisp.php">Aunt Lynn’s Apple Crisp</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/brownies.php">Brownies</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/CakeItalien.php">Cake italien et son flirt à l’érablet</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/gateau_bananes.php">Gâteau aux bananes</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/gateau-aux-bleuets-avec-sauce-au-beurre.php">Gâteau aux bleuets avec sauce au beurre</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/gateau_aux_carottes.php">Gâteau aux Carottes (Tante Berthe)</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/dream_cake.php">Gâteau Dream Cake</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/gateau_Elizabeth.php">Gâteau Élizabeth</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/gateau_fruits_fetes.php">Gâteau aux fruits des fêtes</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/gateau_jujubes.php">Gâteau aux jujubes</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/gateau_orange.php">Gâteau à l’orange</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/gateau_pommes.php">Gâteau aux pommes</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/gateau_rhum.php">Gâteau au rhum</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/hello_dolly.php">Gâteau Hello Dolly</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/lunar-rhubarb-cake.php">Lunar Rhubarb Cake</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/Plum_Puding.php">Plum Pudding de Jovette et Richard</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/pudding_aux_fruits.php">Pudding aux fruits</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/pudding_chomeur.php">Pudding Chomeur</a></li>
+<li><a href="http://recettes-asselin.com/recettes/desserts/short_cake_fraises.php">Gâteau Short Cake aux fraises (Têtu)</a></li><li><a href="http://recettes-asselin.com/recettes/desserts/trifle-de-lynn.php">Trifle de Lynn (Têtu)</a></li>

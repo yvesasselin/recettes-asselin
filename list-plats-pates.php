@@ -1,0 +1,11 @@
+<li><a href="http://www.recettes-asselin.com/recettes/plats/lasagne_epinards.php">Lasagne aux épinards</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/plats/lasagne_au_jambon.php">Lasagne au jambon</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/plats/lasagne_micheline.php">Lasagne de Micheline</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/plats/pates_aux_saucisses_de_sophie.php">Pâtes aux saucisses de Sophie</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/plats/spaghetti_alla_carbonara.php">Spaghetti alla carbonara</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/plats/Spaghetti_rainville.php">Spaghetti (Mme Rainville)</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/plats/Spaghetti_au_gratin.php">Spaghetti au grapin (Marie/Gisèle)</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/plats/Spaghetti_aux_boulettes.php">Spaghetti aux boulettes de Blanche Têtu</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/plats/Spaghetti_au_pepperoni.php">Spaghetti au pepperoni (Sophie)</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/plats/Spaghetti_niaiseux.php">Spaghetti niaiseux (Provost)</a></li>
+<li><a href="http://www.recettes-asselin.com/recettes/plats/noodle_surprise.php">Noodle surprise de Laurie</a></li>
